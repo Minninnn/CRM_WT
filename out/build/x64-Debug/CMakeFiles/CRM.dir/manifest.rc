@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/WT_CRM_v0.1/out/build/x64-Debug/CMakeFiles/CRM.dir/embed.manifest"

@@ -1,0 +1,20 @@
+﻿{
+  "configurations": [
+    {
+      "name": "x64-Debug",
+      "generator": "Ninja",
+      "configurationType": "Debug",
+      "inheritEnvironments": [ "msvc_x64_x64" ],
+      "buildRoot": "${projectDir}\\out\\build\\${name}",
+      "installRoot": "${projectDir}\\out\\install\\${name}",
+      "ctestCommandArgs": "",
+      "variables": [
+        {
+          "name": "Wt_DIR",
+          "value": "D:/WT_CRM_v0.1/lib/vcpkg/packages/wt_x64-windows/share/wt",
+          "type": "PATH"
+        }
+      ]
+    }
+  ]
+}
